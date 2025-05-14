@@ -1,4 +1,4 @@
-
+---
 
 # Weather Forecasting Model (Prophet + Optuna)
 
@@ -6,7 +6,7 @@
 
 This project uses **Prophet** for time series forecasting, enhanced with **Optuna** for hyperparameter optimization. It predicts the temperature (in Celsius) for the next 7 days in **Gauteng, South Africa**, using historical temperature and humidity data.
 
- Improved and extended the original `forecast.py` script to address bugs, improve accuracy, increase flexibility, and implement CLI-based usability.
+Improved and extended the original `forecast.py` script to address bugs, improve accuracy, increase flexibility, and implement CLI-based usability.
 
 ---
 
@@ -112,7 +112,7 @@ This project demonstrates:
 
 ---
 
-Made with ⚡ by **Mitheel Ramdaw**
+⚡ By **Mitheel Ramdaw**
 ✉️ [mitheelramdaw@gmail.com](mailto:mitheelramdaw@gmail.com)
 
 ---
