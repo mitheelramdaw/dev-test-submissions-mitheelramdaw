@@ -187,7 +187,7 @@ Improved and extended the original `forecast.py` script to address bugs, improve
 * [x] Unit tests implemented using `pytest`
 * [x] Documentation written in `README.md`
 * [x] All work organized under `forecast.py`
-* [x] GitHub branch `/submissions/<candidate_name>` used
+* [x] GitHub branch `/submissions/<candidate_name>` used - was told to send a link assumed was to create my own repo and send that link
 * [x] Commit messages are clear and descriptive
 
 ---
