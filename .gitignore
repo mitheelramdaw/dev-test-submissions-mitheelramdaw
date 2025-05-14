@@ -1,0 +1,35 @@
+# Ignore Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore pytest cache
+.pytest_cache/
+
+# macOS system files
+.DS_Store
+
+# Ignore virtual environments (if accidentally placed in project root)
+.env/
+.venv/
+dev-test/
+env/
+venv/
+
+# Ignore editor/IDE config folders (optional)
+.vscode/
+.idea/
+
+# ========================
+# Explicitly keep these files (DO NOT ignore)
+# ========================
+
+!forecast.py
+!tests.py
+!weather.csv
+!forecast_output.csv
+!forecast_7days.png
+!Historical and Future Forecast.png
+!weather_plot.png
+!readme.md
+!Readme Mitheel.md
