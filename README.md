@@ -219,6 +219,6 @@ This project demonstrates:
 ---
 
 ⚡ By **Mitheel Ramdaw**
-✉️ [mitheelramdaw@gmail.com](mailto:mitheelramdaw@gmail.com)
+✉️ [mitheelramdaw](mailto:mitheelramdaw@gmail.com)
 
 ---
